@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "../../html-practice"
+		},
+		{
+			"path": "../../css practice"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../pizza"
+		},
+		{
+			"path": "../../bootstrap 5 practice"
+		},
+		{
+			"path": "../../git-practice"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "bootstrap practice"
+	}
+}
